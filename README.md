@@ -1,6 +1,6 @@
 # Recolor-Picture-to-black-and-white-25-by-word-VBA
-Recolor Picture to black and white 25% by word VBA
-The code is as follows: 
+
+#The code is as follows: 
 Sub changeImageToBalckAndWhite()
 '
 ' changeImageToBalckAndWhite 宏
